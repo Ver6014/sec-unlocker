@@ -13,7 +13,7 @@ Steps to install,
 
 4) Go to: chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/advanced-settings.html
 
-5) Go down to "userResourcesLocation" (At the bottom of the list of purple text)
+5) Go down to "userResourcesLocation" (At the bottom of the list of purple text) and delete everything after the text including space.
 
 6) Put a space next to "userResourcesLocation" then paste: https://raw.githubusercontent.com/123collect/sec-unlocker/refs/heads/main/main.js
 
