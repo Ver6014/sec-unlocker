@@ -23,7 +23,7 @@ Steps to install,
 
 9) Go to: https://codebeautify.org/htmlviewer#
 
-10) Paste all of html.txt into the code input.
+10) Paste all of html.txt ( https://raw.githubusercontent.com/123collect/sec-unlocker/refs/heads/main/html.txt ) into the code input.
 
 11) Use the securly unblock for any site!
 
